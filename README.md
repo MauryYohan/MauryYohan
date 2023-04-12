@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with Webdesign and integration skill with CSS
 
-- 👨‍💻 All of my shared projects are available [here](https://github.com/MauryYohan/repositories)
+- 👨‍💻 All of my shared projects are available [here](https://github.com/MauryYohan?tab=repositories)
 
 - 💬 Ask me about **Django & Python**
 
