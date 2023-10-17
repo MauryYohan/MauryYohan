@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Yohan</h1>
 <h3 align="center">A passionate developer from France who speaks French and Spanish</h3>
 
-- 🔭 I’m currently working on [Game Earth](https://www.gamearth.green/) project
+- 🔭 I’m currently working on my own project
 
-- 🌱 I’m currently learning **Carbon Field (WP)**
+- 🌱 I’m currently learning **Project Management**
 
-- 👯 I’m looking to collaborate on Open Source project with [PyCampES 2023](https://pycamp.es/)
+- 👯 I’m looking to collaborate on Open Source project with [PyCampES 2024](https://pycamp.es/)
 
 - 🤝 I’m looking for help with Webdesign and integration skill with CSS
 
